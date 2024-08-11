@@ -1,2 +1,2 @@
 # ShTuran.github.io
-***for fun**
+***for fun***
