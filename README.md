@@ -1,3 +1,2 @@
 # ShTuran.github.io
-
-# just for fun
+***for fun**
